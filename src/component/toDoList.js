@@ -17,6 +17,7 @@ function ToDoList(){
         setStatusForList(list.length%2===0)  
     }
     
+    
     const _addItem = (event) => {
         event.preventDefault();
         event.target.reset();
