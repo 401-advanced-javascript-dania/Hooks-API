@@ -7,7 +7,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/401-advanced-javascript-dania/Hooks-API/pull/1)
 
 
 ### Setup
