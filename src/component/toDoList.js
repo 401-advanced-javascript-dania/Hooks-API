@@ -43,7 +43,7 @@ if(list.length>=1){document.title = `Status of list,${StatusOfList} `}
          <input onChange={_changeName}/>
          </form>
     <p>Status Of List {StatusOfList.toString()}</p>
-            <button onClick={_changeStatus}></button>
+            <button onClick={_changeStatus}>add to do item </button>
          </form>
          {list.map(item=>
              <li key={item}>{item}</li>
