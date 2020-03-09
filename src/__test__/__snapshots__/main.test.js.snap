@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer/> render correctly 1`] = `
+<footer>
+  done by dania :-D
+</footer>
+`;
+
+exports[`<Header/> render correctly 1`] = `
+<header>
+  <h1>
+    My TO Do List App
+  </h1>
+</header>
+`;
